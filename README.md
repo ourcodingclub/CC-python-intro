@@ -1,7 +1,7 @@
 # Introduction to Python for scientific research
 
 This repository contains the files necessary to complete the Coding Club Intro to Python tutorial - you can check it out at:
-https://ourcodingclub.github.io/
+https://ourcodingclub.github.io/2018/01/26/python-intro.html
 
 `python_cheatsheet_datacamp.pdf` provides a comprehensive cheat sheet of basic Python operations and how to deal with various data types. It originally came from [the DataCamp website](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics).
 
